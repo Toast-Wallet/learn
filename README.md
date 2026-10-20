@@ -70,7 +70,7 @@ Never type your recovery words, passphrase, backup code or secret key into a web
 | [Toast Wallet first-time setup](https://github.com/Toast-Wallet/learn/blob/main/how-to/toast-wallet-first-time-setup.md) | Create your PIN, passphrase, recovery words and first backup. |
 | [Toast Wallet Windows security warning](https://github.com/Toast-Wallet/learn/blob/main/how-to/toast-wallet-windows-security-warning.md) | What a Windows warning means and how to decide safely. |
 
-### Backup and recovery
+### Backup and recovery.
 
 | Guide | What it covers |
 |:--|:--|
